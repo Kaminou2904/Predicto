@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color: #EEEEEE;
+    min-height: 100vh;
+}
+
+.search{
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.categoryWrap{
+    overflow-x: scroll;
+    padding-bottom: 10px;
+}
+
+.categoryCard img{
+    width: 40px !important;
+    height: 40px !important;
+}
+
+.mainBody{
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    min-height: 100vh;
+}
+
+.footerWrap{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    position: fixed;
+    bottom: 0px;
+    background-color: #EEEEEE;
+}
