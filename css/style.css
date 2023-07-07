@@ -37,4 +37,9 @@
     position: fixed;
     bottom: 0px;
     background-color: #EEEEEE;
+    box-shadow: 0 0 20px rgb(190, 190, 190);
+}
+
+.footertxt{
+    font-size: 12px;
 }
